@@ -53,3 +53,6 @@ Web Developer
 <a href="https://github.com/sujinda123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujinda123&langs_count=10&title_color=14b8a6&text_color=f97316&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/sujinda123"><img src="https://github-readme-stats.vercel.app/api?username=sujinda123&show_icons=true&hide=issues,&count_private=true&title_color=14b8a6&text_color=f97316&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="sujinda123's GitHub stats" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=sujinda123&label=Profile%20views&color=0e75b6&style=flat" alt="sujinda123's GitHub stats" />
+

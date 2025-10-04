@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [sujinda\_gor@hotmail.com](mailto:sujinda_gor@hotmail.com)
-* 🧠  I'm learning DevOps & Cyber Security
+* 🧠  I'm learning Full Stack Developer & DevOps & Cyber Security
 
 ### Skills
 
